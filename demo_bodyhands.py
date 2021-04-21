@@ -2,9 +2,9 @@
 """
 @Author: Mikelin
 @Contact: mike.lin@ieee.org
-@File: body_hands.py
+@File: demo_bodyhands.py
 @Time: 2021-04-20 23:00
-@Last_update: 2021-04-20 23:00
+@Last_update: 2021-04-21 11:11
 """
 import cv2
 import mediapipe as mp
